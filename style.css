@@ -1,0 +1,14 @@
+p {
+  color: red;
+  text-align: center;
+  font-size: 30px;
+}
+
+.navbar {
+  text-align: center;
+}
+
+.navbar a {
+  padding: 13px;
+  color: blue;
+}
